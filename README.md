@@ -2,8 +2,8 @@
 
 > **`Segurança da Informação`** 🟢
 
-Me chamo Pedro Artur Carvalho, tenho 18 anos e sou natural de Fortaleza. Concluí o ensino médio com o curso técnico em informática. Atualmente, estou cursando Segurança da Informação no Senac. Sou apaixonado por tecnologia e compartilho minha jornada através do meu LinkedIn  "[Larissa Kich](https://www.youtube.com/@larissakich)",, onde foco em publicar meus certificados, e também através do meu Instagram 
-"[Dev em Dev](https://www.instagram.com/dev_em_dev/)"., onde gosto de postar meus estudos diários. 
+Me chamo Pedro Artur Carvalho, tenho 18 anos e sou natural de Fortaleza. Concluí o ensino médio com o curso técnico em informática. Atualmente, estou cursando Segurança da Informação no Senac. Sou apaixonado por tecnologia e compartilho minha jornada através do meu LinkedIn  "[pedroinfosec](https://)",, onde foco em publicar meus certificados, e também através do meu Instagram 
+"[pedroinfosec](https://)"., onde gosto de postar meus estudos diários. 
 
 ### <span style="color: #2ecc71;">Contato e Redes</span>
 
