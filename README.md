@@ -47,7 +47,4 @@ Me chamo Pedro Artur Carvalho, tenho 18 anos e sou natural de Fortaleza. ConcluÃ
   />
 </p>
 
-## ğŸ Snake Animation
-
-![Snake animation](https://github.com/pedroinfosec/pedroinfosec/blob/output/github-contribution-grid-snake.svg)
 
