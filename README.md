@@ -28,6 +28,22 @@ Me chamo Pedro Artur Carvalho, tenho 18 anos e sou natural de Fortaleza. Conclu�
 <br/>
 <br/>
 
-### 🤖 Estatísticas 
+### 📊 Estatísticas 
 
+<p align="center">
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=pedroinfosec&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroinfosec&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
 
