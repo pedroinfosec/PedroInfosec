@@ -1,4 +1,8 @@
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Sou+Jair+Redigolo+Junior!;" /
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+SEJA++BEM+VINDO!;" />
+</p>
+
+
  # 👨‍💻 <span style="color: #2ecc71;">Pedro Infosec</span>
 
 > **`Segurança da Informação`** 🟢
@@ -48,7 +52,18 @@ Me chamo Pedro Artur Carvalho, tenho 18 anos e sou natural de Fortaleza. Conclu�
   />
 </p>
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
+------------------
 ### Meu Pet Hydra 🐍
  ![snake gif](https://github.com/pedroinfosec/pedroinfosec/blob/output/github-contribution-grid-snake.gif)
 
